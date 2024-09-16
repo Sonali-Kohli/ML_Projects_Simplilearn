@@ -1,9 +1,9 @@
 # ML_Project_Simplilearn
-Machine learning assignment 
+Employee turnover analytics assignment 
 <br>
 Author - Sonali Kohli
 <br>
-The project aimed to develop a Machine Learning model which can be used to predict employee turnover using the work style of the employees and their interest in continuing with the company based on their ealrier satisfaction metrics.
+The project aimed to develop a Machine Learning model which can be used to predict employee turnover using the work style of the employees and their interest in continuing with the company based on their earlier satisfaction metrics.
 <br>
 # Techstack
 Libraries: Pandas, Numpy, Matplotlib, Seaborn, scikit-learn
